@@ -12,7 +12,9 @@ A command box will flash on the screen for a split second, and the DNS Resolver 
 Besides, there are some other related commands that you might be interested in:
 
 ipconfig /displaydns: It displays your current DNS cache under Windows IP configuration.
+
 ipconfig /registerdns: To register your DNS cache recorded in the Hosts file.
+
 ipconfig /release: To release the current IP address settings.
 ipconfig /renew: To reset and request a new IP address.
 Option 2 – Windows PowerShell
