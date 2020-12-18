@@ -24,3 +24,4 @@ Select the Start button, then type powershell
 Select Windows PowerShell
 Type the following command, then press Enter:
 Clear-DnsClientCache
+äö
