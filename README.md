@@ -1,7 +1,7 @@
 # How to Flush DNS in Windows 10?
 Command Prompt and Windows Powershell, which is a new addition to Windows, can be used to clear DNS cache.
 
-Option 1 – Command Prompt
+# Option 1 – Command Prompt
 To reset the DNS resolver cache, perform the following steps:
 
 Click the Start button, then type cmd
@@ -16,8 +16,10 @@ ipconfig /displaydns: It displays your current DNS cache under Windows IP config
 ipconfig /registerdns: To register your DNS cache recorded in the Hosts file.
 
 ipconfig /release: To release the current IP address settings.
+
 ipconfig /renew: To reset and request a new IP address.
-Option 2 – Windows PowerShell
+
+# Option 2 – Windows PowerShell
 Select the Start button, then type powershell
 Select Windows PowerShell
 Type the following command, then press Enter:
